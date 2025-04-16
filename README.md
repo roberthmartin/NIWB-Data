@@ -34,7 +34,7 @@
 <body>
   <h1>North Inlet Mobility Data Explorer Fall 2021</h1>
   <ul>
-    <li><a href="Beach_Fall_2021_Point_Density.html">BEACH 2021 Point Density</a></li>
+    <li><a href="beach_Fall_2021_Point_Density.html">BEACH 2021 Point Density</a></li>
     <li><a href="Creeks_Fall_2021_Point_Density.html">CREEKS 2021 Point Density</a></li>
     <li><a href="Fall_2021_Point_Density.html">Fall 2021 Overall Point Density</a></li>
     <li><a href="fall_2021_stops.png">Fall 2021 Overall Stops</a></li>
