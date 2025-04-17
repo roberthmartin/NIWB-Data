@@ -38,7 +38,7 @@
     <li><a href="Creeks_Fall_2021_Point_Density.html">CREEKS 2021 Point Density</a></li>
     <li><a href="Fall_2021_Point_Density.html">Fall 2021 Overall Point Density</a></li>
     <li><a href="fall_2021_stops.png">Fall 2021 Overall Stops</a></li>
-    <li><a href="fall_2021_time.png">Fall 2021 Overall Stops</a></li>
+    <li><a href="fall_2021_time.png">Fall 2021 Overall Dwell Time</a></li>
     <li><a href="fall_21_unique_devices_by_day.html">Fall 2021 Unique Devices By Day</a></li>
     <li><a href="WB_Fall_2021_Point_Density.html">WB 2021 Point Density</a></li>
     <li><a href="WBJ_Fall_2021_Point_Density.html">WBJ 2021 Point Density</a></li>
